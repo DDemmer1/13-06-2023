@@ -17,7 +17,7 @@ Implementiert eine Methode die Rekursiv ab einem bestimmten Verzeichnis über eu
 -------------------------
 
 - Ändert die Methode zu einer Such-Methode ab.
-- die Methode soll jetzt eine Datei suchen können und gibt dann das genaue verzeichnis zurück in dem dieses File liegt
+- Die Methode soll jetzt eine Datei suchen können und gibt dann das genaue Verzeichnis zurück in dem dieses File liegt
 - ```searchDirectory(File dir, String filename)```
 
 
