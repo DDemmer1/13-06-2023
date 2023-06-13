@@ -14,6 +14,13 @@ Implementiert eine Methode die Rekursiv ab einem bestimmten Verzeichnis über eu
   - ```isDirectory()```
 
 
+-------------------------
+
+- Ändert die Methode zu einer Such-Methode ab.
+- die Methode soll jetzt eine Datei suchen können und gibt dann das genaue verzeichnis zurück in dem dieses File liegt
+- ```searchDirectory(File dir, String filename)```
+
+
 
 ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
