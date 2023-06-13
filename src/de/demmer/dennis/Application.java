@@ -13,7 +13,10 @@ public class Application {
 		String result = fileUtil.printDirectory(file,"text1.txt");
 		
 		System.out.println(result);
-			
+	
+
+		
+		
 		}
 		
 		
