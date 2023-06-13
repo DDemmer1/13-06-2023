@@ -10,8 +10,9 @@ public class Application {
 		
 		File file = new File("C:/Users/Unknown/git/13-06-2023");
 		
-		fileUtil.printDirectory(file);
+		String result = fileUtil.printDirectory(file,"text1.txt");
 		
+		System.out.println(result);
 			
 		}
 		

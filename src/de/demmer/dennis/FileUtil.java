@@ -5,7 +5,7 @@ import java.io.File;
 public class FileUtil {
 	
 	
-	public void printDirectory(File dir) {
+	public String printDirectory(File dir, String search) {
 		if(!dir.exists()) {
 			return;
 		}
